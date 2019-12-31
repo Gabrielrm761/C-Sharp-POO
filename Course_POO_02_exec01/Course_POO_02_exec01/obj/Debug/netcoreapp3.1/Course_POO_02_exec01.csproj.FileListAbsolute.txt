@@ -1,0 +1,10 @@
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\bin\Debug\netcoreapp3.1\Course_POO_02_exec01.exe
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\bin\Debug\netcoreapp3.1\Course_POO_02_exec01.deps.json
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\bin\Debug\netcoreapp3.1\Course_POO_02_exec01.runtimeconfig.json
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\bin\Debug\netcoreapp3.1\Course_POO_02_exec01.runtimeconfig.dev.json
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\bin\Debug\netcoreapp3.1\Course_POO_02_exec01.dll
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\bin\Debug\netcoreapp3.1\Course_POO_02_exec01.pdb
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\obj\Debug\netcoreapp3.1\Course_POO_02_exec01.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\obj\Debug\netcoreapp3.1\Course_POO_02_exec01.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\obj\Debug\netcoreapp3.1\Course_POO_02_exec01.dll
+C:\Users\gabriel\source\repos\Course_POO_02_exec01\Course_POO_02_exec01\obj\Debug\netcoreapp3.1\Course_POO_02_exec01.pdb

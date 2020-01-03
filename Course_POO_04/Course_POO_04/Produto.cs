@@ -7,46 +7,55 @@ namespace Course_POO_04
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
-
-        public Produto() 
+        private string _nome;
+        private double _preco;
+        private int _quantidade;
+        public Produto()
         {
-            Quantidade = 10;
         }
-
-        public Produto(string nome, double preco) : this()
+        public Produto(string nome, double preco, int quantidade)
         {
-            Nome = nome;
-            Preco = preco;
+            _nome = nome;
+            _preco = preco;
+            _quantidade = quantidade;
         }
-
-        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
+        public string GetNome()
         {
-            Quantidade = quantidade;
+            return _nome;
         }
-
-        public double ValorTotalEmStoque()
+        public void SetNome(string nome)
         {
-            return Preco * Quantidade;
+            if (nome != null && nome.Length > 1)
+            {
+                _nome = nome;
+            }
         }
-
+        public double GetPreco()
+        {
+            return _preco;
+        }
+        public int GetQuantidade()
+        {
+            return _quantidade;
+        }
+        public double ValorTotalEmEstoque()
+        {
+            return _preco * _quantidade;
+        }
         public void AdicionarProdutos(int quantidade)
         {
-            Quantidade = Quantidade + quantidade;
+            _quantidade += quantidade;
         }
-
         public void RemoverProdutos(int quantidade)
         {
-            Quantidade = Quantidade - quantidade;
+            _quantidade -= quantidade;
         }
 
         public override string ToString()
         {
-            return Nome + ", $ " + Preco.ToString("F2", CultureInfo.InvariantCulture)
-                + ", " + Quantidade + " unidades, Total: $ "
-                + ValorTotalEmStoque().ToString("F2", CultureInfo.InvariantCulture);
+            return _nome + ", $ " + _preco.ToString("F2", CultureInfo.InvariantCulture)
+                + ", " + _quantidade + " unidades, Total: $ "
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

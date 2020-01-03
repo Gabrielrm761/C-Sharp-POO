@@ -11,20 +11,20 @@ namespace Course_POO_04
         public double Preco;
         public int Quantidade;
 
-        public Produto() { }
-
-        public Produto(string nome, double preco, int quantidade)
+        public Produto() 
         {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
+            Quantidade = 10;
         }
 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco) : this()
         {
             Nome = nome;
             Preco = preco;
-            Quantidade = 5; //Por padrão o valor é zero, mas pode-se atribuir diretamente um valor qualquer.
+        }
+
+        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
+        {
+            Quantidade = quantidade;
         }
 
         public double ValorTotalEmStoque()

@@ -20,6 +20,11 @@ namespace Course_POO_04
             Quantidade = quantidade;
         }
 
+        public Produto(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 5; //Por padrão o valor é zero, mas pode-se atribuir diretamente um valor qualquer.
         }
 
         public double ValorTotalEmStoque()

@@ -16,6 +16,13 @@ namespace Course_POO_04
 
             Produto p = new Produto(nome, preco);
             //Produto p = new Produto(nome, preco, 20); -> ainda é possivel utilizar o construtor de três argumentos.
+            Produto p2 = new Produto();
+            Produto p3 = new Produto
+            {
+                Nome = "TV",
+                Preco = 500.00,
+                Quantidade = 20
+            };
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);

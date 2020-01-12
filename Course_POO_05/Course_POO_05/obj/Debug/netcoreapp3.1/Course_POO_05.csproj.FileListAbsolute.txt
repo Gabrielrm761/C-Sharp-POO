@@ -1,0 +1,11 @@
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\bin\Debug\netcoreapp3.1\Course_POO_05.exe
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\bin\Debug\netcoreapp3.1\Course_POO_05.deps.json
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\bin\Debug\netcoreapp3.1\Course_POO_05.runtimeconfig.json
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\bin\Debug\netcoreapp3.1\Course_POO_05.runtimeconfig.dev.json
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\bin\Debug\netcoreapp3.1\Course_POO_05.dll
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\bin\Debug\netcoreapp3.1\Course_POO_05.pdb
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\obj\Debug\netcoreapp3.1\Course_POO_05.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\obj\Debug\netcoreapp3.1\Course_POO_05.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\obj\Debug\netcoreapp3.1\Course_POO_05.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\obj\Debug\netcoreapp3.1\Course_POO_05.dll
+C:\Users\gabriel\source\repos\Course_POO_05\Course_POO_05\obj\Debug\netcoreapp3.1\Course_POO_05.pdb

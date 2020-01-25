@@ -1,0 +1,10 @@
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\bin\Debug\netcoreapp3.1\Course_POO_Nullable.exe
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\bin\Debug\netcoreapp3.1\Course_POO_Nullable.deps.json
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\bin\Debug\netcoreapp3.1\Course_POO_Nullable.runtimeconfig.json
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\bin\Debug\netcoreapp3.1\Course_POO_Nullable.runtimeconfig.dev.json
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\bin\Debug\netcoreapp3.1\Course_POO_Nullable.dll
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\bin\Debug\netcoreapp3.1\Course_POO_Nullable.pdb
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\obj\Debug\netcoreapp3.1\Course_POO_Nullable.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\obj\Debug\netcoreapp3.1\Course_POO_Nullable.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\obj\Debug\netcoreapp3.1\Course_POO_Nullable.dll
+C:\Users\gabriel\source\repos\Course_POO_Nullable\Course_POO_Nullable\obj\Debug\netcoreapp3.1\Course_POO_Nullable.pdb

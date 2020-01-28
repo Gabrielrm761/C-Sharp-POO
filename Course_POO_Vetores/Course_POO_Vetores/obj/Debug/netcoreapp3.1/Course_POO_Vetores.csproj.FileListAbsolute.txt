@@ -1,0 +1,11 @@
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\bin\Debug\netcoreapp3.1\Course_POO_Vetores.exe
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\bin\Debug\netcoreapp3.1\Course_POO_Vetores.deps.json
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\bin\Debug\netcoreapp3.1\Course_POO_Vetores.runtimeconfig.json
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\bin\Debug\netcoreapp3.1\Course_POO_Vetores.runtimeconfig.dev.json
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\bin\Debug\netcoreapp3.1\Course_POO_Vetores.dll
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\bin\Debug\netcoreapp3.1\Course_POO_Vetores.pdb
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\obj\Debug\netcoreapp3.1\Course_POO_Vetores.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\obj\Debug\netcoreapp3.1\Course_POO_Vetores.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\obj\Debug\netcoreapp3.1\Course_POO_Vetores.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\obj\Debug\netcoreapp3.1\Course_POO_Vetores.dll
+C:\Users\gabriel\source\repos\Course_POO_Vetores\Course_POO_Vetores\obj\Debug\netcoreapp3.1\Course_POO_Vetores.pdb

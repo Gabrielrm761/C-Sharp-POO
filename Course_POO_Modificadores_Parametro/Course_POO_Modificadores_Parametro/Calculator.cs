@@ -6,14 +6,13 @@ namespace Course_POO_Modificadores_Parametro
 {
     class Calculator
     {
-        public static int Sum(params int[] numbers) //o params vai avisar ao compilador que você quer uma função que possa receber uma quantia varaivel de valores.
+        /*public static void Triple(ref int x) //após usar a palavra ref, o parâmetro 'x' vai se tornar uma variavel referência para a variavel original.
         {
-            int sum = 0;
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                sum += numbers[i];
-            }
-            return sum;
+            x = x * 3;
+        }*/
+        public static void Triple(int origin, out int result)
+        {
+            result = origin * 3;
         }
     }
 }

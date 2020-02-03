@@ -1,0 +1,11 @@
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\bin\Debug\netcoreapp3.1\Course_POO_foreach.exe
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\bin\Debug\netcoreapp3.1\Course_POO_foreach.deps.json
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\bin\Debug\netcoreapp3.1\Course_POO_foreach.runtimeconfig.json
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\bin\Debug\netcoreapp3.1\Course_POO_foreach.runtimeconfig.dev.json
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\bin\Debug\netcoreapp3.1\Course_POO_foreach.dll
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\bin\Debug\netcoreapp3.1\Course_POO_foreach.pdb
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\obj\Debug\netcoreapp3.1\Course_POO_foreach.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\obj\Debug\netcoreapp3.1\Course_POO_foreach.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\obj\Debug\netcoreapp3.1\Course_POO_foreach.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\obj\Debug\netcoreapp3.1\Course_POO_foreach.dll
+C:\Users\gabriel\source\repos\Course_POO_foreach\Course_POO_foreach\obj\Debug\netcoreapp3.1\Course_POO_foreach.pdb

@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\bin\Debug\netcoreapp3.1\Course_POO_List_Exec.exe
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\bin\Debug\netcoreapp3.1\Course_POO_List_Exec.deps.json
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\bin\Debug\netcoreapp3.1\Course_POO_List_Exec.runtimeconfig.json
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\bin\Debug\netcoreapp3.1\Course_POO_List_Exec.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\bin\Debug\netcoreapp3.1\Course_POO_List_Exec.dll
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\bin\Debug\netcoreapp3.1\Course_POO_List_Exec.pdb
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\obj\Debug\netcoreapp3.1\Course_POO_List_Exec.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\obj\Debug\netcoreapp3.1\Course_POO_List_Exec.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\obj\Debug\netcoreapp3.1\Course_POO_List_Exec.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\obj\Debug\netcoreapp3.1\Course_POO_List_Exec.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\obj\Debug\netcoreapp3.1\Course_POO_List_Exec.dll
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\obj\Debug\netcoreapp3.1\Course_POO_List_Exec.pdb
+C:\Users\usuario\source\repos\Course_POO_List_Exec\Course_POO_List_Exec\obj\Debug\netcoreapp3.1\Course_POO_List_Exec.genruntimeconfig.cache

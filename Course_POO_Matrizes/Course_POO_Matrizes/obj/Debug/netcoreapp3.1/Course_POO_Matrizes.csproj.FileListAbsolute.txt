@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\bin\Debug\netcoreapp3.1\Course_POO_Matrizes.exe
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\bin\Debug\netcoreapp3.1\Course_POO_Matrizes.deps.json
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\bin\Debug\netcoreapp3.1\Course_POO_Matrizes.runtimeconfig.json
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\bin\Debug\netcoreapp3.1\Course_POO_Matrizes.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\bin\Debug\netcoreapp3.1\Course_POO_Matrizes.dll
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\bin\Debug\netcoreapp3.1\Course_POO_Matrizes.pdb
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\obj\Debug\netcoreapp3.1\Course_POO_Matrizes.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\obj\Debug\netcoreapp3.1\Course_POO_Matrizes.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\obj\Debug\netcoreapp3.1\Course_POO_Matrizes.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\obj\Debug\netcoreapp3.1\Course_POO_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\obj\Debug\netcoreapp3.1\Course_POO_Matrizes.dll
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\obj\Debug\netcoreapp3.1\Course_POO_Matrizes.pdb
+C:\Users\usuario\source\repos\Course_POO_Matrizes\Course_POO_Matrizes\obj\Debug\netcoreapp3.1\Course_POO_Matrizes.genruntimeconfig.cache

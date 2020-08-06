@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\bin\Debug\netcoreapp3.1\Course_POO_Enum.exe
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\bin\Debug\netcoreapp3.1\Course_POO_Enum.deps.json
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\bin\Debug\netcoreapp3.1\Course_POO_Enum.runtimeconfig.json
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\bin\Debug\netcoreapp3.1\Course_POO_Enum.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\bin\Debug\netcoreapp3.1\Course_POO_Enum.dll
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\bin\Debug\netcoreapp3.1\Course_POO_Enum.pdb
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\obj\Debug\netcoreapp3.1\Course_POO_Enum.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\obj\Debug\netcoreapp3.1\Course_POO_Enum.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\obj\Debug\netcoreapp3.1\Course_POO_Enum.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\obj\Debug\netcoreapp3.1\Course_POO_Enum.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\obj\Debug\netcoreapp3.1\Course_POO_Enum.dll
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\obj\Debug\netcoreapp3.1\Course_POO_Enum.pdb
+C:\Users\usuario\source\repos\Course_POO_Enum\Course_POO_Enum\obj\Debug\netcoreapp3.1\Course_POO_Enum.genruntimeconfig.cache

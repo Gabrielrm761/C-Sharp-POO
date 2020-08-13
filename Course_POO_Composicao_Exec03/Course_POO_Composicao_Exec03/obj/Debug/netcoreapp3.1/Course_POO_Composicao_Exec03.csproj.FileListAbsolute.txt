@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\obj\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\obj\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\obj\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\obj\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\bin\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.exe
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\bin\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.deps.json
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\bin\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.runtimeconfig.json
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\bin\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\bin\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.dll
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\bin\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.pdb
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\obj\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.dll
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\obj\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.pdb
+C:\Users\usuario\source\repos\Course_POO_Composicao_Exec03\Course_POO_Composicao_Exec03\obj\Debug\netcoreapp3.1\Course_POO_Composicao_Exec03.genruntimeconfig.cache

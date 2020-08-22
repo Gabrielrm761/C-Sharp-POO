@@ -22,5 +22,11 @@ namespace Course_POO_Heranca.Entities
         {
             Balance += Balance * InterestRate;
         }
+
+        public override void Withdraw(double amount) // Usando o override, você reimplementa na subclasse a operação existente na superclasse, para dar um comportamento diferente. 
+        {
+            base.Withdraw(amount);
+            Balance -= 2.0;
+        }
     }
 }

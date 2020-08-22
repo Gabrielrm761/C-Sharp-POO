@@ -22,9 +22,9 @@ namespace Course_POO_Heranca.Entities
             Balance = balance;
         }
 
-        public void Withdraw(double amount)
+        public virtual void Withdraw(double amount) // Usando a palavra "virtual" para indicar que o método pode ser sobrescrito ou sobreposto.
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
 
         public void Deposit(double amount)

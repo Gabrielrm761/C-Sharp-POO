@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\bin\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.exe
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\bin\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.deps.json
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\bin\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.runtimeconfig.json
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\bin\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\bin\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.dll
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\bin\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.pdb
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\obj\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\obj\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\obj\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\obj\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\obj\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.dll
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\obj\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.pdb
+C:\Users\usuario\source\repos\Course_POO_Heranca_Exec02\Course_POO_Heranca_Exec02\obj\Debug\netcoreapp3.1\Course_POO_Heranca_Exec02.genruntimeconfig.cache

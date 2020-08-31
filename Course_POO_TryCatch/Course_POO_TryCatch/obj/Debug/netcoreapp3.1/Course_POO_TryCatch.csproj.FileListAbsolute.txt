@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\bin\Debug\netcoreapp3.1\Course_POO_TryCatch.exe
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\bin\Debug\netcoreapp3.1\Course_POO_TryCatch.deps.json
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\bin\Debug\netcoreapp3.1\Course_POO_TryCatch.runtimeconfig.json
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\bin\Debug\netcoreapp3.1\Course_POO_TryCatch.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\bin\Debug\netcoreapp3.1\Course_POO_TryCatch.dll
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\bin\Debug\netcoreapp3.1\Course_POO_TryCatch.pdb
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\obj\Debug\netcoreapp3.1\Course_POO_TryCatch.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\obj\Debug\netcoreapp3.1\Course_POO_TryCatch.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\obj\Debug\netcoreapp3.1\Course_POO_TryCatch.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\obj\Debug\netcoreapp3.1\Course_POO_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\obj\Debug\netcoreapp3.1\Course_POO_TryCatch.dll
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\obj\Debug\netcoreapp3.1\Course_POO_TryCatch.pdb
+C:\Users\usuario\source\repos\Course_POO_TryCatch\Course_POO_TryCatch\obj\Debug\netcoreapp3.1\Course_POO_TryCatch.genruntimeconfig.cache

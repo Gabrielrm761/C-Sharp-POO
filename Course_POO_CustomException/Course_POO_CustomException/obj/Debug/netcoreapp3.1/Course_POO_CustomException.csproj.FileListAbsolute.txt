@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\bin\Debug\netcoreapp3.1\Course_POO_CustomException.exe
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\bin\Debug\netcoreapp3.1\Course_POO_CustomException.deps.json
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\bin\Debug\netcoreapp3.1\Course_POO_CustomException.runtimeconfig.json
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\bin\Debug\netcoreapp3.1\Course_POO_CustomException.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\bin\Debug\netcoreapp3.1\Course_POO_CustomException.dll
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\bin\Debug\netcoreapp3.1\Course_POO_CustomException.pdb
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\obj\Debug\netcoreapp3.1\Course_POO_CustomException.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\obj\Debug\netcoreapp3.1\Course_POO_CustomException.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\obj\Debug\netcoreapp3.1\Course_POO_CustomException.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\obj\Debug\netcoreapp3.1\Course_POO_CustomException.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\obj\Debug\netcoreapp3.1\Course_POO_CustomException.dll
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\obj\Debug\netcoreapp3.1\Course_POO_CustomException.pdb
+C:\Users\usuario\source\repos\Course_POO_CustomException\Course_POO_CustomException\obj\Debug\netcoreapp3.1\Course_POO_CustomException.genruntimeconfig.cache
